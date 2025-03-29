@@ -5,7 +5,7 @@
 
 ### Datos Personales
 - Mi nombre es: Alan Gonzalez
-- Vivo en Moron, Sur Barrio San Jose
+- Vivo en Moron Sur, Barrio San Jose
 
 
 ### Otra Información
